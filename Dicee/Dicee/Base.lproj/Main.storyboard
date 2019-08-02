@@ -43,7 +43,7 @@
                                     <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
-                                    <action selector="rollBuutonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3CJ-WE-UFp"/>
+                                    <action selector="rollButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3CJ-WE-UFp"/>
                                 </connections>
                             </button>
                         </subviews>

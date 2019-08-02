@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         updateDiceImages()
     }
 
-    @IBAction func rollBuutonPressed(_ sender: UIButton) {
+    @IBAction func rollButtonPressed(_ sender: UIButton) {
         
         updateDiceImages()
         
